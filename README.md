@@ -17,9 +17,9 @@ Michael Brändle, Elgar Fleisch, Tobias Kowatsch\*, Mia Jovanova\*
 
 NutriLens estimates meal composition from a single smartphone photograph with a
 vision-language model, and predicts the individual's 2-hour postprandial glucose
-trajectory from that estimate plus age, sex and body mass index. The prediction
-is anchored to the person once, by an approximately two-day continuous glucose
-monitoring onboarding; after that it uses no sensor, wearable or food-log input.
+trajectory from that estimate plus age, sex, body mass index and type 2 diabetes status. The prediction
+is anchored to the person once, by an approximately 2-day continuous glucose
+monitoring onboarding; after that it uses no sensor, wearable or other medical information.
 Every clinical readout — peak, 2-hour value, area, time in range, and the
 decision rules built on them — is derived from the one predicted trajectory.
 
@@ -27,7 +27,7 @@ decision rules built on them — is derived from the one predicted trajectory.
 
 ```bash
 pip install -r requirements.txt
-python scripts/run_all.py          # about 30 seconds
+python scripts/run_all.py
 ```
 
 Tables land in `outputs/tables/`, figure panels in `outputs/figures/`.
