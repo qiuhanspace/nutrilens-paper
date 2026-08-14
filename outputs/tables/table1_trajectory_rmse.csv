@@ -1,0 +1,13 @@
+arm,model,group,n_subjects,rmse_mean,rmse_sd,rmse_median
+image_logs-demo_nutrition,NutriLens,Normoglycemic,10,22.909605823560476,8.226056570860752,20.496897255773447
+image_logs-demo_nutrition,NutriLens,Prediabetic,17,25.892922623518835,10.275006360237517,23.062585629327085
+image_logs-demo_nutrition,NutriLens,Type 2 Diabetic,18,40.51196632409458,15.962543660752722,33.96883012066728
+manual_logs-demo_nutrition,Manual Log,Normoglycemic,10,22.7894864209793,8.462472749222453,20.671083649362288
+manual_logs-demo_nutrition,Manual Log,Prediabetic,17,25.705799892758304,10.50942484589573,23.385764933031812
+manual_logs-demo_nutrition,Manual Log,Type 2 Diabetic,18,40.56305556543436,16.89057003205983,35.38065613556722
+image_logs-demo_nutrition_wearable_metabolic,Full (NutriLens + wearable + metabolic),Normoglycemic,10,22.322629095716263,6.769422673553916,20.36052492901831
+image_logs-demo_nutrition_wearable_metabolic,Full (NutriLens + wearable + metabolic),Prediabetic,17,25.00805508651636,10.733102247982607,22.647565074050643
+image_logs-demo_nutrition_wearable_metabolic,Full (NutriLens + wearable + metabolic),Type 2 Diabetic,18,40.01875766322097,13.865048450085899,34.32168766196479
+baseline-demo,Baseline (Demographics),Normoglycemic,10,23.242404913178945,8.1081121586907,20.806753159680667
+baseline-demo,Baseline (Demographics),Prediabetic,17,27.36439352462266,11.689324869090795,24.140546372997495
+baseline-demo,Baseline (Demographics),Type 2 Diabetic,18,45.292064418302346,17.401351875919467,39.96760407342849

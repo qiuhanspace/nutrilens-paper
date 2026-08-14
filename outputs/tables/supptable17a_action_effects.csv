@@ -1,0 +1,8 @@
+code,family,action,anchor,n_flagged_meals,available_pct,median_carb_displaced_g,pct_gap_closed_peak,pct_gap_closed_area
+X1,Replace,eat a different meal at a similar time of day,the participant's own best-predicted meal within +/- 2 h of the same clock time; meal selection rather than modification,312,99.0,14.5,10.8,15.2
+S2,Substitute,swap 1 carbohydrate serving for protein,ADA exchange lists (15 g); isocaloric-substitution trials,312,51.9,15.0,7.5,10.8
+A1,Add,add 1 serving non-starchy vegetables,"ADA non-starchy vegetable exchange, half a cup cooked",312,98.4,0.0,4.1,6.4
+S1,Substitute,swap 1 grain serving for whole grain,"brown vs white rice, whole-wheat vs white bread: +1.7 g fibre per serving",312,87.5,1.7,3.7,6.3
+R3,Reduce,cut carbohydrate to the standard meal allowance (<= 45 g),"ADA carbohydrate counting, three exchanges; target-based",312,33.3,23.0,2.9,5.4
+R2,Reduce,reduce the starch portion by 20 %,the practical ceiling: only about a third would accept a 20 % cut permanently,312,98.7,6.6,1.3,1.9
+R4,Reduce,cut added fat by 1 tsp oil,"targets fat density: -5 g fat, -45 kcal",312,69.6,0.0,0.4,0.6

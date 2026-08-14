@@ -1,0 +1,4 @@
+group,n_pairs,zone_A_pct,zone_B_pct,zone_C_pct,zone_D_pct,zone_E_pct,zone_AB_pct
+Normoglycemic,26257,78.31,21.59,0.0,0.1,0.0,99.9
+Prediabetic,40172,73.12,25.49,0.0,1.39,0.0,98.61
+Type 2 Diabetic,38478,65.75,32.36,0.0,1.88,0.0,98.12

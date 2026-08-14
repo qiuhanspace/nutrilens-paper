@@ -1,0 +1,7 @@
+rung,also_known_as,image,demographics,calibration,arm,prediction_field,rmse_Normo,sd_Normo,rmse_Pre,sd_Pre,rmse_T2D,sd_T2D
+group median curve,,False,False,False,baseline-demo,y_pred_naive_group,25.027925238249026,5.366153138556925,31.319314794040732,15.463784544132809,50.73263915038071,20.180563999085965
+calibration only,Baseline (Personal),False,False,True,baseline-demo,y_pred_naive_individual,23.52405001215976,8.704187854740105,27.207651193087685,11.57486265096055,45.5680121063115,16.29950166456587
+"demographics only, no calibration",,False,True,False,baseline-demo,y_pred_raw,26.842734781600825,5.344399012559215,31.944342699135778,13.432569798951862,51.476447941921435,20.085031840474073
+demographics + calibration,Baseline (Demographics),False,True,True,baseline-demo,y_pred_adjusted,23.242404913178945,8.1081121586907,27.36439352462266,11.689324869090795,45.292064418302346,17.401351875919467
+"image + demographics, no calibration",,True,True,False,image_logs-demo_nutrition,y_pred_raw,26.60315053860337,5.968281238931993,31.346627084164023,13.221083138122223,47.57188257445503,17.21742423185122
+image + demographics + calibration,NutriLens,True,True,True,image_logs-demo_nutrition,y_pred_adjusted,22.909605823560476,8.226056570860752,25.892922623518835,10.275006360237517,40.51196632409458,15.962543660752722

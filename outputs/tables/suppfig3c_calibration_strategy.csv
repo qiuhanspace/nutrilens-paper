@@ -1,0 +1,49 @@
+model,group,strategy,rmse_mean,rmse_sd
+NutriLens,Normoglycemic,none,26.60315053860337,5.968281238931993
+NutriLens,Normoglycemic,training-group median curve,25.027925238249026,5.366153138556925
+NutriLens,Normoglycemic,own calibration-window median curve,23.52405001215976,8.704187854740105
+NutriLens,Normoglycemic,per-participant offset (used throughout),22.909605823560476,8.226056570860752
+NutriLens,Prediabetic,none,31.346627084164023,13.221083138122223
+NutriLens,Prediabetic,training-group median curve,31.319314794040732,15.463784544132809
+NutriLens,Prediabetic,own calibration-window median curve,27.207651193087685,11.57486265096055
+NutriLens,Prediabetic,per-participant offset (used throughout),25.892922623518835,10.275006360237517
+NutriLens,Type 2 Diabetic,none,47.57188257445503,17.21742423185122
+NutriLens,Type 2 Diabetic,training-group median curve,50.73263915038071,20.180563999085965
+NutriLens,Type 2 Diabetic,own calibration-window median curve,45.5680121063115,16.29950166456587
+NutriLens,Type 2 Diabetic,per-participant offset (used throughout),40.51196632409458,15.962543660752722
+Manual Log,Normoglycemic,none,26.52235028684006,6.291909108790866
+Manual Log,Normoglycemic,training-group median curve,25.027925238249026,5.366153138556925
+Manual Log,Normoglycemic,own calibration-window median curve,23.52405001215976,8.704187854740105
+Manual Log,Normoglycemic,per-participant offset (used throughout),22.7894864209793,8.462472749222453
+Manual Log,Prediabetic,none,30.554516778021245,13.655293122971099
+Manual Log,Prediabetic,training-group median curve,31.319314794040732,15.463784544132809
+Manual Log,Prediabetic,own calibration-window median curve,27.207651193087685,11.57486265096055
+Manual Log,Prediabetic,per-participant offset (used throughout),25.705799892758304,10.50942484589573
+Manual Log,Type 2 Diabetic,none,47.95001023700672,17.595326663547088
+Manual Log,Type 2 Diabetic,training-group median curve,50.73263915038071,20.180563999085965
+Manual Log,Type 2 Diabetic,own calibration-window median curve,45.5680121063115,16.29950166456587
+Manual Log,Type 2 Diabetic,per-participant offset (used throughout),40.56305556543436,16.89057003205983
+Full (NutriLens + wearable + metabolic),Normoglycemic,none,25.236672823432638,5.733279899316626
+Full (NutriLens + wearable + metabolic),Normoglycemic,training-group median curve,25.027925238249026,5.366153138556925
+Full (NutriLens + wearable + metabolic),Normoglycemic,own calibration-window median curve,23.52405001215976,8.704187854740105
+Full (NutriLens + wearable + metabolic),Normoglycemic,per-participant offset (used throughout),22.322629095716263,6.769422673553916
+Full (NutriLens + wearable + metabolic),Prediabetic,none,29.242522154029903,13.596105016663378
+Full (NutriLens + wearable + metabolic),Prediabetic,training-group median curve,31.319314794040732,15.463784544132809
+Full (NutriLens + wearable + metabolic),Prediabetic,own calibration-window median curve,27.207651193087685,11.57486265096055
+Full (NutriLens + wearable + metabolic),Prediabetic,per-participant offset (used throughout),25.00805508651636,10.733102247982607
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,none,45.83265429455826,11.697774342247733
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,training-group median curve,50.73263915038071,20.180563999085965
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,own calibration-window median curve,45.5680121063115,16.29950166456587
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,per-participant offset (used throughout),40.01875766322097,13.865048450085899
+Baseline (Demographics),Normoglycemic,none,26.842734781600825,5.344399012559215
+Baseline (Demographics),Normoglycemic,training-group median curve,25.027925238249026,5.366153138556925
+Baseline (Demographics),Normoglycemic,own calibration-window median curve,23.52405001215976,8.704187854740105
+Baseline (Demographics),Normoglycemic,per-participant offset (used throughout),23.242404913178945,8.1081121586907
+Baseline (Demographics),Prediabetic,none,31.944342699135778,13.432569798951862
+Baseline (Demographics),Prediabetic,training-group median curve,31.319314794040732,15.463784544132809
+Baseline (Demographics),Prediabetic,own calibration-window median curve,27.207651193087685,11.57486265096055
+Baseline (Demographics),Prediabetic,per-participant offset (used throughout),27.36439352462266,11.689324869090795
+Baseline (Demographics),Type 2 Diabetic,none,51.476447941921435,20.085031840474073
+Baseline (Demographics),Type 2 Diabetic,training-group median curve,50.73263915038071,20.180563999085965
+Baseline (Demographics),Type 2 Diabetic,own calibration-window median curve,45.5680121063115,16.29950166456587
+Baseline (Demographics),Type 2 Diabetic,per-participant offset (used throughout),45.292064418302346,17.401351875919467

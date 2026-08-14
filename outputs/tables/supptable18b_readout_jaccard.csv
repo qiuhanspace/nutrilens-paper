@@ -1,0 +1,5 @@
+,Peak glucose,Glucose at 2 h,Time above 180,"iAUC, positive only"
+Peak glucose,1.0,0.6,0.94,0.53
+Glucose at 2 h,0.6,1.0,0.6,0.51
+Time above 180,0.94,0.6,1.0,0.55
+"iAUC, positive only",0.53,0.51,0.55,1.0

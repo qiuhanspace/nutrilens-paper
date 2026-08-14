@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+title: "NutriLens: analysis code for image-based digital biomarkers of postprandial glucose"
+message: "If you use this software or the derived data, please cite the paper below."
+type: software
+authors:
+  - given-names: Qiuhan
+    family-names: Jin
+    email: qiuhan.jin@unisg.ch
+    affiliation: "School of Medicine, University of St. Gallen, St. Gallen, Switzerland"
+  - given-names: Victoria
+    family-names: Brügger
+    affiliation: "School of Medicine, University of St. Gallen, St. Gallen, Switzerland"
+  - given-names: Magdalena
+    family-names: Fuchs
+    affiliation: "Department of Management, Technology and Economics, ETH Zürich, Zurich, Switzerland"
+  - given-names: Benjamin
+    family-names: Wirth
+    affiliation: "Department of Endocrinology, HOCH Health Ostschweiz, St. Gallen, Switzerland"
+  - given-names: Stefan
+    family-names: Bilz
+    affiliation: "Department of Endocrinology, HOCH Health Ostschweiz, St. Gallen, Switzerland"
+  - given-names: Michael
+    family-names: Brändle
+    affiliation: "Department of Internal Medicine, HOCH Health Ostschweiz, St. Gallen, Switzerland"
+  - given-names: Elgar
+    family-names: Fleisch
+    affiliation: "Department of Management, Technology and Economics, ETH Zürich, Zurich, Switzerland"
+  - given-names: Tobias
+    family-names: Kowatsch
+    affiliation: "Institute for Implementation Science in Health Care, University of Zurich, Zurich, Switzerland"
+  - given-names: Mia
+    family-names: Jovanova
+    affiliation: "Department of Management, Technology and Economics, ETH Zürich, Zurich, Switzerland"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/OWNER/nutrilens-postprandial-glucose"
+keywords:
+  - digital biomarkers
+  - postprandial glucose
+  - continuous glucose monitoring
+  - image-based dietary assessment
+  - vision-language models
+  - type 2 diabetes
+preferred-citation:
+  type: article
+  title: "Image-based digital biomarkers predict postprandial glucose responses across glycaemic states"
+  authors:
+    - given-names: Qiuhan
+      family-names: Jin
+    - given-names: Victoria
+      family-names: Brügger
+    - given-names: Magdalena
+      family-names: Fuchs
+    - given-names: Benjamin
+      family-names: Wirth
+    - given-names: Stefan
+      family-names: Bilz
+    - given-names: Michael
+      family-names: Brändle
+    - given-names: Elgar
+      family-names: Fleisch
+    - given-names: Tobias
+      family-names: Kowatsch
+    - given-names: Mia
+      family-names: Jovanova
+  journal: "npj Digital Medicine"
+  year: 2026

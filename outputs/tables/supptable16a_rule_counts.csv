@@ -1,0 +1,5 @@
+rule,meals_flagged,pct_of_meals,flagged_Normo,n_Normo,flagged_Pre,n_Pre,flagged_T2D,n_T2D
+ADA: 1-2 h value >= 180 mg/dL,267,30.8,20,217,65,332,182,318
+IDF: 1-2 h value >= 160 mg/dL,398,45.9,46,217,121,332,231,318
+AACE: value at 2 h >= 140 mg/dL,402,46.4,50,217,127,332,225,318
+Level 2 (derived): reaches 250 mg/dL,73,8.4,0,217,10,332,63,318

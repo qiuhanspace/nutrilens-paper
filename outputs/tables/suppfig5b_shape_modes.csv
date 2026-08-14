@@ -1,0 +1,19 @@
+model,group,mode,variance_share,recoverable_r2
+NutriLens,Normoglycemic,peak amplitude,0.646180777003114,0.01169705422657217
+NutriLens,Normoglycemic,peak timing,0.16882652522794364,0.0068762978300124
+NutriLens,Normoglycemic,tail shape,0.08100658607056382,0.039378457446120105
+NutriLens,Prediabetic,peak amplitude,0.6460225883310451,0.14456209402106826
+NutriLens,Prediabetic,peak timing,0.1954457393896278,0.02391360416798576
+NutriLens,Prediabetic,tail shape,0.08230203126331546,4.427497543968746e-05
+NutriLens,Type 2 Diabetic,peak amplitude,0.7414462141641861,0.2582562381457019
+NutriLens,Type 2 Diabetic,peak timing,0.17816141871490979,0.026576871354982535
+NutriLens,Type 2 Diabetic,tail shape,0.0495629889316583,0.002901588118659724
+Full (NutriLens + wearable + metabolic),Normoglycemic,peak amplitude,0.646180777003114,0.04071240736219802
+Full (NutriLens + wearable + metabolic),Normoglycemic,peak timing,0.16882652522794364,0.0033990552167508887
+Full (NutriLens + wearable + metabolic),Normoglycemic,tail shape,0.08100658607056382,0.01041702745952429
+Full (NutriLens + wearable + metabolic),Prediabetic,peak amplitude,0.6460225883310451,0.16155020733523
+Full (NutriLens + wearable + metabolic),Prediabetic,peak timing,0.1954457393896278,0.0340328625612536
+Full (NutriLens + wearable + metabolic),Prediabetic,tail shape,0.08230203126331546,0.0035347231000209334
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,peak amplitude,0.7414462141641861,0.291624561002774
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,peak timing,0.17816141871490979,0.026713682976629495
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,tail shape,0.0495629889316583,0.00033239084273647154

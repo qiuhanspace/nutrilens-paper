@@ -1,0 +1,5 @@
+,ADA: 1-2 h value >= 180 mg/dL,IDF: 1-2 h value >= 160 mg/dL,AACE: value at 2 h >= 140 mg/dL,Level 2 (derived): reaches 250 mg/dL
+ADA: 1-2 h value >= 180 mg/dL,1.0,0.671,0.578,0.273
+IDF: 1-2 h value >= 160 mg/dL,0.671,1.0,0.72,0.183
+AACE: value at 2 h >= 140 mg/dL,0.578,0.72,1.0,0.179
+Level 2 (derived): reaches 250 mg/dL,0.273,0.183,0.179,1.0

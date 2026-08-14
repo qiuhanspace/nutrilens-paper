@@ -1,0 +1,14 @@
+feature,display,kind,mean_rank,shap_Normo,shap_Pre,shap_T2D,rank_Normo,rank_Pre,rank_T2D
+fiber_buffering,fibre : carbohydrate ratio,composition ratio,1.0,0.91798383,2.3498998,1.7712085,1,1,1
+energy_density,energy density,composition ratio,3.3333333333333335,0.365075,1.1070429,1.1677587,4,2,4
+protein,protein,macronutrient,3.6666666666666665,0.434415,0.5774441,1.5445985,2,7,2
+protein_density,protein density,composition ratio,5.333333333333333,0.40475854,0.97305834,0.71563333,3,3,10
+mass,mass,macronutrient,6.666666666666667,0.30108178,0.50168544,1.0603775,6,9,5
+fat_density,fat density,composition ratio,7.666666666666667,0.3285249,0.34928396,0.7898915,5,11,7
+carbs,net carbohydrate,macronutrient,8.0,0.24334429,0.83454245,0.6918252,8,5,11
+fiber,fibre,macronutrient,8.0,0.20602341,0.36308154,1.310317,11,10,3
+calories,energy,macronutrient,8.666666666666666,0.12954126,0.8600881,0.7259435,13,4,9
+fat,fat,macronutrient,8.666666666666666,0.1696775,0.61571145,0.75157183,12,6,8
+fat_buffering,fat : carbohydrate ratio,composition ratio,9.333333333333334,0.22582081,0.3333986,0.9176708,9,13,6
+carb_density,carbohydrate density,composition ratio,10.0,0.2138457,0.52199435,0.49792048,10,8,12
+protein_buffering,protein : carbohydrate ratio,composition ratio,10.666666666666666,0.29006734,0.34162393,0.469125,7,12,13

@@ -1,0 +1,49 @@
+model,group,reconstruction,rmse_mean,rmse_sd
+NutriLens,Normoglycemic,linear,22.42486791883008,8.17487521050221
+NutriLens,Normoglycemic,pchip,22.778838743725423,8.251072752612691
+NutriLens,Normoglycemic,cubic,22.909605823560476,8.226056570860752
+NutriLens,Normoglycemic,akima,22.838857188745447,8.240577356886908
+NutriLens,Prediabetic,linear,25.18879391291523,10.289571086088925
+NutriLens,Prediabetic,pchip,25.69632427076557,10.310399992457851
+NutriLens,Prediabetic,cubic,25.892922623518835,10.275006360237517
+NutriLens,Prediabetic,akima,25.799557323850088,10.30220811524888
+NutriLens,Type 2 Diabetic,linear,40.00618948834834,15.952974786051646
+NutriLens,Type 2 Diabetic,pchip,40.402387386760694,15.972415727608402
+NutriLens,Type 2 Diabetic,cubic,40.51196632409458,15.962543660752722
+NutriLens,Type 2 Diabetic,akima,40.4544589319607,15.970677500408282
+Manual Log,Normoglycemic,linear,22.302996173599,8.417063542357354
+Manual Log,Normoglycemic,pchip,22.65401574948223,8.486432453524786
+Manual Log,Normoglycemic,cubic,22.7894864209793,8.462472749222453
+Manual Log,Normoglycemic,akima,22.71702235870121,8.478923865463141
+Manual Log,Prediabetic,linear,24.98374954182313,10.531799569262256
+Manual Log,Prediabetic,pchip,25.517027325814226,10.538724878919234
+Manual Log,Prediabetic,cubic,25.705799892758304,10.50942484589573
+Manual Log,Prediabetic,akima,25.614352460255382,10.536322311823785
+Manual Log,Type 2 Diabetic,linear,40.06099443550571,16.879902059629696
+Manual Log,Type 2 Diabetic,pchip,40.45605384761072,16.90422337355771
+Manual Log,Type 2 Diabetic,cubic,40.56305556543436,16.89057003205983
+Manual Log,Type 2 Diabetic,akima,40.50970760075568,16.901998467624786
+Full (NutriLens + wearable + metabolic),Normoglycemic,linear,21.84038242373584,6.6999225747596
+Full (NutriLens + wearable + metabolic),Normoglycemic,pchip,22.186924191712116,6.785425865886721
+Full (NutriLens + wearable + metabolic),Normoglycemic,cubic,22.322629095716263,6.769422673553916
+Full (NutriLens + wearable + metabolic),Normoglycemic,akima,22.2516453782601,6.781211857999397
+Full (NutriLens + wearable + metabolic),Prediabetic,linear,24.33246330280461,10.729251395930723
+Full (NutriLens + wearable + metabolic),Prediabetic,pchip,24.819467573169835,10.760182798852103
+Full (NutriLens + wearable + metabolic),Prediabetic,cubic,25.00805508651636,10.733102247982607
+Full (NutriLens + wearable + metabolic),Prediabetic,akima,24.90935871374108,10.759237036259544
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,linear,39.493294937024686,13.870769499007567
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,pchip,39.9129363262532,13.882175256264052
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,cubic,40.01875766322097,13.865048450085899
+Full (NutriLens + wearable + metabolic),Type 2 Diabetic,akima,39.96069355454649,13.877064664402708
+Baseline (Demographics),Normoglycemic,linear,22.752000817620846,8.055702644450426
+Baseline (Demographics),Normoglycemic,pchip,23.104331669322374,8.136273019794457
+Baseline (Demographics),Normoglycemic,cubic,23.242404913178945,8.1081121586907
+Baseline (Demographics),Normoglycemic,akima,23.16707531112699,8.125738317507464
+Baseline (Demographics),Prediabetic,linear,26.67094542220993,11.707104912213977
+Baseline (Demographics),Prediabetic,pchip,27.15945763082911,11.736788759304092
+Baseline (Demographics),Prediabetic,cubic,27.36439352462266,11.689324869090795
+Baseline (Demographics),Prediabetic,akima,27.275256086312698,11.715832942189062
+Baseline (Demographics),Type 2 Diabetic,linear,44.79447363979088,17.393466617595994
+Baseline (Demographics),Type 2 Diabetic,pchip,45.180764390661494,17.41523693711087
+Baseline (Demographics),Type 2 Diabetic,cubic,45.292064418302346,17.401351875919467
+Baseline (Demographics),Type 2 Diabetic,akima,45.236341087885975,17.407964823120103

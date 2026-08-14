@@ -1,0 +1,11 @@
+# Python 3.12
+#
+# The analysis scripts were last run against the versions below. Earlier
+# versions of numpy (< 2.0) lack `numpy.trapezoid`, which the readout code uses;
+# on those, substitute `numpy.trapz`.
+numpy>=2.0
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.3
+xgboost>=2.0
+matplotlib>=3.8

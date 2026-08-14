@@ -1,0 +1,10 @@
+group,arm,n_features,mean_abs_shap_mgdl,share_pct,ablation_cost_mgdl,ablation_p
+Normo,image-derived features,24,6.346,21.8,0.333,0.037109375
+Normo,demographic features,3,5.631,19.4,-0.285,0.4921875
+Normo,calibration offset,1,17.121,58.8,3.694,0.10546875
+Pre,image-derived features,24,14.598,35.0,1.471,0.0006561279296875
+Pre,demographic features,3,11.292,27.1,-0.258,0.352874755859375
+Pre,calibration offset,1,15.771,37.9,5.454,0.044769287109375
+T2D,image-derived features,24,24.873,40.5,4.78,0.0055999755859375
+T2D,demographic features,3,15.373,25.0,1.899,0.0055999755859375
+T2D,calibration offset,1,21.153,34.5,7.06,0.00193023681640625

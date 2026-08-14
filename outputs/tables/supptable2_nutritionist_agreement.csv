@@ -1,0 +1,55 @@
+rater_pair,panel,nutrient,n_dishes,pearson_r,pearson_p,lins_ccc,ccc_p
+NutriLens – Annotator 1,Nutrition5k,mass (g),40,0.7827140684165261,0.0,0.747087282898248,0.0
+NutriLens – Annotator 1,Nutrition5k,calories (kcal),40,0.4408123283458036,0.005,0.43785986458164855,0.005
+NutriLens – Annotator 1,Nutrition5k,carbs (g),40,0.4865938468791954,0.001,0.4717319154118972,0.001
+NutriLens – Annotator 1,Nutrition5k,fiber (g),40,0.8442714041155857,0.0,0.6815716532247692,0.0
+NutriLens – Annotator 1,Nutrition5k,fat (g),40,0.40829108515096574,0.013,0.3977942464385344,0.013
+NutriLens – Annotator 1,Nutrition5k,protein (g),40,0.7187522915360742,0.0,0.7155717997708221,0.0
+NutriLens – Annotator 1,GLOW UP,mass (g),39,0.7607300028919584,0.0,0.6608871529148354,0.0
+NutriLens – Annotator 1,GLOW UP,calories (kcal),39,0.8167485131491895,0.0,0.7177449916941643,0.0
+NutriLens – Annotator 1,GLOW UP,carbs (g),39,0.8589375552130923,0.0,0.7935850756681334,0.0
+NutriLens – Annotator 1,GLOW UP,fiber (g),39,0.6773682961042826,0.0,0.50970404534114,0.0
+NutriLens – Annotator 1,GLOW UP,fat (g),39,0.7771264110920671,0.0,0.7235815757847042,0.0
+NutriLens – Annotator 1,GLOW UP,protein (g),39,0.8881026174570384,0.0,0.8369945768350987,0.0
+NutriLens – Annotator 1,Combined,mass (g),79,0.7853244163896275,0.0,0.7130565520949548,0.0
+NutriLens – Annotator 1,Combined,calories (kcal),79,0.749535953328605,0.0,0.7008602343933573,0.0
+NutriLens – Annotator 1,Combined,carbs (g),79,0.7918256907177729,0.0,0.7467559696281711,0.0
+NutriLens – Annotator 1,Combined,fiber (g),79,0.7413131544642654,0.0,0.5763882732146425,0.0
+NutriLens – Annotator 1,Combined,fat (g),79,0.7119532175692512,0.0,0.6907971335803977,0.0
+NutriLens – Annotator 1,Combined,protein (g),79,0.7971589442780045,0.0,0.7825344279250402,0.0
+NutriLens – Annotator 2,Nutrition5k,mass (g),39,0.923682244293121,0.0,0.8657513347654728,0.0
+NutriLens – Annotator 2,Nutrition5k,calories (kcal),39,0.7967420156884097,0.0,0.743869718739732,0.0
+NutriLens – Annotator 2,Nutrition5k,carbs (g),39,0.45078669705886687,0.002,0.3539885465878354,0.002
+NutriLens – Annotator 2,Nutrition5k,fiber (g),39,0.4603911066891755,0.001,0.39624409522426673,0.001
+NutriLens – Annotator 2,Nutrition5k,fat (g),39,0.6543596767125238,0.0,0.6453675873577189,0.0
+NutriLens – Annotator 2,Nutrition5k,protein (g),39,0.8674885545414108,0.0,0.8497925172128722,0.0
+NutriLens – Annotator 2,GLOW UP,mass (g),39,0.6268686165980426,0.0,0.5872584961858113,0.0
+NutriLens – Annotator 2,GLOW UP,calories (kcal),39,0.6396994251618865,0.0,0.5182603811438135,0.0
+NutriLens – Annotator 2,GLOW UP,carbs (g),39,0.6529428885711734,0.0,0.5497476742210348,0.0
+NutriLens – Annotator 2,GLOW UP,fiber (g),39,0.6596409054815879,0.0,0.5849991921046948,0.0
+NutriLens – Annotator 2,GLOW UP,fat (g),39,0.5952766397630481,0.0,0.5588883497851969,0.0
+NutriLens – Annotator 2,GLOW UP,protein (g),39,0.6954253591971106,0.0,0.6534423785615276,0.0
+NutriLens – Annotator 2,Combined,mass (g),78,0.7441589439017472,0.0,0.7036021807866302,0.0
+NutriLens – Annotator 2,Combined,calories (kcal),78,0.7094405829688524,0.0,0.6194068821888027,0.0
+NutriLens – Annotator 2,Combined,carbs (g),78,0.6078893196586511,0.0,0.5220073763002075,0.0
+NutriLens – Annotator 2,Combined,fiber (g),78,0.6062822008166137,0.0,0.5364995829870871,0.0
+NutriLens – Annotator 2,Combined,fat (g),78,0.6648900777759894,0.0,0.6371192141532083,0.0
+NutriLens – Annotator 2,Combined,protein (g),78,0.7689806489537931,0.0,0.7448205409095751,0.0
+Annotator 1 – Annotator 2,Nutrition5k,mass (g),39,0.7271854429476731,0.0,0.7198768947559959,0.0
+Annotator 1 – Annotator 2,Nutrition5k,calories (kcal),39,0.4255780745463056,0.005,0.3994497836705337,0.005
+Annotator 1 – Annotator 2,Nutrition5k,carbs (g),39,0.645046083907882,0.0,0.5797977385903987,0.0
+Annotator 1 – Annotator 2,Nutrition5k,fiber (g),39,0.30418442509087773,0.047,0.29514208320254487,0.047
+Annotator 1 – Annotator 2,Nutrition5k,fat (g),39,0.193129511581772,0.246,0.18337656487391574,0.246
+Annotator 1 – Annotator 2,Nutrition5k,protein (g),39,0.6080254294982858,0.001,0.6022499704257361,0.001
+Annotator 1 – Annotator 2,GLOW UP,mass (g),38,0.8258126860109453,0.0,0.8046243220777936,0.0
+Annotator 1 – Annotator 2,GLOW UP,calories (kcal),38,0.6346358484131823,0.0,0.6024430949902124,0.0
+Annotator 1 – Annotator 2,GLOW UP,carbs (g),38,0.6513747137966431,0.0,0.6250173557171312,0.0
+Annotator 1 – Annotator 2,GLOW UP,fiber (g),38,0.795110928558099,0.0,0.7546080429441596,0.0
+Annotator 1 – Annotator 2,GLOW UP,fat (g),38,0.6202618869468075,0.0,0.6040978942025625,0.0
+Annotator 1 – Annotator 2,GLOW UP,protein (g),38,0.7141643447206537,0.0,0.7041907849475759,0.0
+Annotator 1 – Annotator 2,Combined,mass (g),77,0.7954353115386503,0.0,0.7894974066176097,0.0
+Annotator 1 – Annotator 2,Combined,calories (kcal),77,0.6351944299688005,0.0,0.6162152298691583,0.0
+Annotator 1 – Annotator 2,Combined,carbs (g),77,0.6473327749969238,0.0,0.6334452081387001,0.0
+Annotator 1 – Annotator 2,Combined,fiber (g),77,0.648411986314836,0.0,0.6252033404635141,0.0
+Annotator 1 – Annotator 2,Combined,fat (g),77,0.6053751291073811,0.0,0.5911368055065724,0.0
+Annotator 1 – Annotator 2,Combined,protein (g),77,0.6794264956560068,0.0,0.6718812784632578,0.0
