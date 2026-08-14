@@ -8,7 +8,7 @@ Qiuhan Jin, Victoria Brügger, Magdalena Fuchs, Benjamin Wirth, Stefan Bilz,
 Michael Brändle, Elgar Fleisch, Tobias Kowatsch\*, Mia Jovanova\*
 *(\*shared senior authors)*
 
-**Correspondence:** Qiuhan Jin — <qiuhan.jin@unisg.ch>
+**Contact:** Qiuhan Jin — <qiuhan.jin@unisg.ch>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
