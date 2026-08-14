@@ -160,10 +160,3 @@ sources, which `LICENSE` lists.
 ## Citation
 
 T.B.D.
-
-## Provenance
-
-This repository is the **released subset** of the study's analysis. The complete
-working tree — including sensitivity analyses, superseded variants and the
-manuscript build — is maintained separately; the code here is the same lineage,
-reduced to what is needed to reproduce the published figures and tables.
