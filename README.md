@@ -159,12 +159,7 @@ sources, which `LICENSE` lists.
 
 ## Citation
 
-If you use this code or the derived data, please cite the paper. Machine-readable
-metadata is in `CITATION.cff`.
-
-> Jin Q, Brügger V, Fuchs M, Wirth B, Bilz S, Brändle M, Fleisch E, Kowatsch T,
-> Jovanova M. Image-based digital biomarkers predict postprandial glucose
-> responses across glycaemic states. *npj Digital Medicine* (2026).
+T.B.D.
 
 ## Provenance
 
