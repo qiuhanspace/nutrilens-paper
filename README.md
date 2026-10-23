@@ -1,11 +1,11 @@
-# Image-based digital biomarkers predict postprandial glucose responses across glycaemic states
+# Image-derived digital biomarker of postprandial glycemia for proactive glycemic decisions
 
 Analysis code and derived data for the paper of the same name, submitted to
 *npj Digital Medicine* (collection: Digital Biomarkers for Enabling Proactive
 Clinical Decisions).
 
-Qiuhan Jin, Victoria Brügger, Magdalena Fuchs, Benjamin Wirth, Stefan Bilz,
-Michael Brändle, Elgar Fleisch, Tobias Kowatsch\*, Mia Jovanova\*
+Qiuhan Jin, Victoria Brügger, Magdalena Fuchs, Thibaud Mottier, Benjamin Wirth, Stefan Bilz,
+Michael Brändle, Tobias Kowatsch\*, Mia Jovanova\*
 *(\*shared senior authors)*
 
 **Contact:** Qiuhan Jin — <qiuhan.jin@unisg.ch>
